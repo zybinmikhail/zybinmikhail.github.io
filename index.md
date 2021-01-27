@@ -1,4 +1,9 @@
 This is my website
 
+# Essays
+[[storytelling]]
+[[тед Слава Полунин]]
 
-[link](zybinmikhail.github.io/all-notes/MIRIx results.md)
+# About me
+
+# Contact me
