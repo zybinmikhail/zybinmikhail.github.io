@@ -1,9 +1,4 @@
-hello world
-# hello
-_ihiregui_
-*sdasdsfff*
-- sad
-- df 
-- asda
+This is my website
 
-here
+
+[link](zybinmikhail.github.io/all-notes/MIRIx results.md)
