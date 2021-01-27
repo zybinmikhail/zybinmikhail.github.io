@@ -1,0 +1,1 @@
+average speed of reading is 200-250 words per minute
