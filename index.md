@@ -1,9 +1,8 @@
 This is my website
 
 # Essays
-[[storytelling]]
-[[тед Слава Полунин]]
 
+[структурирования](структурирования)
 # About me
 
 # Contact me
